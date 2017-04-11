@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fei/AsteroidData.cs">
+    <Files>
+      <File FileName="Assets/SingleGear0.cs" Line="87" Column="23" />
+      <File FileName="Assets/saveload.cs" Line="1" Column="1" />
+      <File FileName="Assets/test_whiisyourparent.cs" Line="1" Column="1" />
+      <File FileName="Assets/BasicGear.cs" Line="8" Column="26" />
+      <File FileName="Assets/Gear1.cs" Line="13" Column="1" />
+      <File FileName="Assets/Gear2.cs" Line="11" Column="3" />
+      <File FileName="Assets/fei/Saver.cs" Line="15" Column="5" />
+      <File FileName="Assets/fei/AsteroidData.cs" Line="13" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

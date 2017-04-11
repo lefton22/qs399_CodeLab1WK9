@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AE418A8C-43FD-73CF-7537-4D1F2663C3E2}") = "TimesWheels2", "Assembly-CSharp.csproj", "{987E3232-AA19-D31D-501C-FE9BB9EABBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987E3232-AA19-D31D-501C-FE9BB9EABBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987E3232-AA19-D31D-501C-FE9BB9EABBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987E3232-AA19-D31D-501C-FE9BB9EABBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987E3232-AA19-D31D-501C-FE9BB9EABBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
